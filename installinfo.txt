@@ -1,0 +1,4 @@
+strom ~/porject/Strom
+zookeeper ~/softeware/zookeeer
+ideaIU ~/software/idea-IU-145.972.3/ lisence server http://www.iteblog.com/idea/key.php
+ccsm compizconfigurute desktop
